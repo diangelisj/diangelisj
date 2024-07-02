@@ -1,6 +1,6 @@
 
-### Hi there 👋
-I'm software engineer, more 15 experience years with php developer, and too pos graduate in Digital Marketing Growth Haking SEO.
+### Hi there ;)
+Indie hacker and software engineer with over 15 years of experience as a PHP developer, and also a postgraduate in Digital Marketing, Growth Hacking, and SEO
 
 **diangelisj/diangelisj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
